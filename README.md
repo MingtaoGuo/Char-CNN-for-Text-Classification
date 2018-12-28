@@ -30,6 +30,7 @@ Data sample:
 |Loss|Training accuracy|
 |-|-|
 |![](https://github.com/MingtaoGuo/Char-CNN-for-Text-Classification/blob/master/IMAGES/loss.jpg)|![](https://github.com/MingtaoGuo/Char-CNN-for-Text-Classification/blob/master/IMAGES/acc.jpg)|
+![](https://github.com/MingtaoGuo/Char-CNN-for-Text-Classification/blob/master/IMAGES/weight.jpg)
 
 The testing accuracy (paper: 84.35%): 84.95% (trained about 25 000 iterations)
 # Acknowledgement
