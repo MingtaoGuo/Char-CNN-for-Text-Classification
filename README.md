@@ -10,7 +10,9 @@ I find this image rather difficult to understand. So I redrawn the following ima
 In actually, Char CNN is the same as conventional CNN (for image).
 # Dataset
 Please click [HERE](https://github.com/mhjabreel/CharCNN/tree/master/data/ag_news_csv) to download the 'train.csv' and 'test.csv'.
+
 The original dataset [AG's corpus of news articles](http://www.di.unipi.it/~gulli/AG_corpus_of_news_articles.html)
+
 Data sample:
 
 |class|text content|
@@ -28,7 +30,9 @@ Data sample:
 |Loss|Training accuracy|
 |-|-|
 |![](https://github.com/MingtaoGuo/Char-CNN-for-Text-Classification/blob/master/IMAGES/loss.jpg)|![](https://github.com/MingtaoGuo/Char-CNN-for-Text-Classification/blob/master/IMAGES/acc.jpg)|
+
+The testing accuracy: 84.95% (trained about 25 000 iterations)
 # Acknowledgement
 Thanks for [mhjabreel](https://github.com/mhjabreel)' csv dataset
 # Reference
-[1] 
+[1] Zhang X, Zhao J, LeCun Y. Character-level convolutional networks for text classification[C]//Advances in neural information processing systems. 2015: 649-657.
