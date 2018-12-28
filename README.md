@@ -14,3 +14,6 @@ In actually, Char CNN is the same as conventional CNN (for image).
 3. numpy
 4. pandas
 # Results
+|Loss|Training accuracy|
+|-|-|
+|![](https://github.com/MingtaoGuo/Char-CNN-for-Text-Classification/blob/master/IMAGES/loss.jpg)|![](https://github.com/MingtaoGuo/Char-CNN-for-Text-Classification/blob/master/IMAGES/acc.jpg)|
