@@ -7,7 +7,7 @@ This code mainly implement the paper [Character-level Convolutional Networks for
 
 I find this image rather difficult to understand. So I redrawn the following image according to my own understanding.
 ![](https://github.com/MingtaoGuo/Char-CNN-for-Text-Classification/blob/master/IMAGES/MODEL_GMT.jpg)
-In actually, Char CNN is the same as conventional CNN (for image).
+In actually, Char CNN is similar with conventional CNN (for image).
 # Dataset
 Please click [HERE](https://github.com/mhjabreel/CharCNN/tree/master/data/ag_news_csv) to download the 'train.csv' and 'test.csv'.
 
